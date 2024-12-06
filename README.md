@@ -39,4 +39,4 @@ Least Significant Bit (LSB).
 
 ![image](https://github.com/user-attachments/assets/8261100f-5889-42c1-ac76-825356c63db7)
 
-![simulator link](https://circuitverse.org/users/274621/projects/ddco_miniproject-75742662-f57e-416b-9f11-b26c3c2f9e2b)
+(https://circuitverse.org/users/274621/projects/ddco_miniproject-75742662-f57e-416b-9f11-b26c3c2f9e2b)
