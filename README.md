@@ -31,9 +31,5 @@ position after discarding the Most Significant Bit (MSB).
 • For right shifts, 1'b0 fills the Most Significant Bit (MSB) position after discarding the
 Least Significant Bit (LSB).
 
-Example input/output
-S1S0 Input  Output
-00   0110   0110
-01   0110   1001
-10   0110   0011
-11   0110   1100
+![image](https://github.com/user-attachments/assets/8261100f-5889-42c1-ac76-825356c63db7)
+
