@@ -16,6 +16,7 @@ following behavioural operations
 
 
 S1 S0 Operation Multiplexer (op)
+
 0 0 No change I0
 0 1 Compliments input I1
 1 0 Right shift I2
