@@ -11,17 +11,7 @@ The project implements shift operations which are essential functions of
 bidirectional/universal shift registers through the following modules : -
 a.mux41 (4x1 multiplexer totally 4 units)
 b.dfrl (D flip flop with clock , load and reset signal totally 4 units)
-4x1 multiplexer accepts 4 bit input and has 2 select lines S0 and S1 which perform the
-following behavioural operations
-
-
-S1 S0 Operation Multiplexer (op)
-
-0 0 No change I0
-0 1 Compliments input I1
-1 0 Right shift I2
-1 1 Left shift I3
-
+4x1 multiplexer accepts 4 bit input and has 2 select lines S0 and S1.
 
 Load is used to enable the D flip flop and Reset is used to change all the D flip flop outputs
 back to 0.
@@ -40,4 +30,4 @@ Least Significant Bit (LSB).
 
 ![image](https://github.com/user-attachments/assets/8261100f-5889-42c1-ac76-825356c63db7)
 
-(https://circuitverse.org/users/274621/projects/ddco_miniproject-75742662-f57e-416b-9f11-b26c3c2f9e2b)
+[Simulation](https://circuitverse.org/users/274621/projects/ddco_miniproject-75742662-f57e-416b-9f11-b26c3c2f9e2b)
