@@ -9,8 +9,11 @@ lines, if s1s0-00, no change, s1s0-01 complement output, s1s0-10, shift the bits
 
 The project implements shift operations which are essential functions of
 bidirectional/universal shift registers through the following modules : -
+
 a.mux41 (4x1 multiplexer totally 4 units)
+
 b.dfrl (D flip flop with clock , load and reset signal totally 4 units)
+
 4x1 multiplexer accepts 4 bit input and has 2 select lines S0 and S1.
 
 Load is used to enable the D flip flop and Reset is used to change all the D flip flop outputs
