@@ -32,3 +32,12 @@ Least Significant Bit (LSB).
 
 
 [Simulation](https://circuitverse.org/users/274621/projects/ddco_miniproject-75742662-f57e-416b-9f11-b26c3c2f9e2b)
+
+
+
+made as a group project by -
+A V Vedanth
+Aayush Kumar Singh
+Abhinav B
+Amitesh Jammula
+
