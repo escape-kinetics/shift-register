@@ -36,8 +36,12 @@ Least Significant Bit (LSB).
 
 
 made as a group project by -
+
 A V Vedanth
+
 Aayush Kumar Singh
+
 Abhinav B
+
 Amitesh Jammula
 
